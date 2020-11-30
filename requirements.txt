@@ -1,0 +1,11 @@
+bs4
+docx
+nltk
+numpy
+openpyxl
+pandas
+psycopg2-binary
+pymystem3
+rarfile
+sklearn
+xlrd
