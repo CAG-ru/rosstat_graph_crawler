@@ -1,5 +1,5 @@
 bs4
-docx
+python-docx
 nltk
 numpy
 openpyxl
